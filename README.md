@@ -5,14 +5,14 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently **Lead DevSecOps Engineer** @ Toyota (Platform Engineering)  
-- 🌍 Based in India | Working across AWS, Azure & GCP  
-- ☁️ Architected and deployed **Kubernetes platforms (EKS/AKS/GKE)** across enterprises  
-- 🔒 Strong in **DevSecOps pipelines (SAST, DAST, SCA, Secret Scanning)**  
+- 🔭 Passionate about **Cloud, DevOps, DevSecOps & SRE**  
+- 🌍 Experienced across **AWS, Azure & GCP**  
+- ☁️ Architected and deployed **Kubernetes platforms (EKS/AKS/GKE)** at scale  
+- 🔒 Specialized in **DevSecOps pipelines** (SAST, DAST, SCA, Secret Scanning)  
 - 🛠️ Skilled in **Terraform, Ansible, Helm, ArgoCD, GitHub/GitLab CI/CD, Jenkins, Azure DevOps**  
-- 📊 Obsessed with observability → Prometheus | Grafana | Splunk | EFK stack  
-- 👯 Looking to collaborate on **DevSecOps open-source projects**  
-- ⚡ Fun fact: I mentor teams and love solving infra challenges at scale  
+- 📊 Strong believer in **observability → Prometheus | Grafana | Splunk | EFK stack**  
+- 👯 Open to collaborating on **cloud-native & DevSecOps open-source projects**  
+- ⚡ Fun fact: I mentor teams and love solving infra challenges at scale 
 
 ---
 

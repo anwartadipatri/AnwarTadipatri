@@ -30,14 +30,7 @@
 **Databases & Monitoring**  
 `PostgreSQL` `MongoDB` `Redis` `Prometheus` `Grafana` `Elasticsearch` `Splunk`  
 
----
 
-### 📊 GitHub Analytics  
-![Anwar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AnwarTadipatri&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarTadipatri&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AnwarTadipatri&theme=tokyonight)  
-
----
 
 ### 🏆 Achievements  
 - AWS Certified Solutions Architect  

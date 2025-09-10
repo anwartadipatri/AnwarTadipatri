@@ -47,10 +47,6 @@
 
 ---
 
-### 🌐 Connect With Me  
-🌍 [LinkedIn](https://linkedin.com/in/anwar-tadipatri)  
-✉️ anwar.t0383@gmail.com  
-
 ---
 
 💡 *“Building secure, scalable & resilient platforms one deployment at a time.”*
